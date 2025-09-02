@@ -11,11 +11,11 @@ CS + Stats @ UBC building AI-powered full-stack apps; seeking Summer 2026 SWE/ML
 
 ## Learning Journey
 Currently focusing on:
-- **Academics:** C, C++, Data structures and algorithms
+- **Academics:** C, C++, Data Structures and Algorithms
 - **Personal Goals:** Agentic AI patterns, machine learning and production-grade full-stack practices
 
 ## Skills
-These are my current skills. I'm always working to learn more and improve!
+My current skills. I'm always working to learn more and improve!
 
 - **Languages:** Python, Java, C#, JavaScript, TypeScript, C, C++, SQL, HTML/CSS
 - **Web Frameworks:** React, FastAPI, Flask, Tailwind CSS
@@ -39,7 +39,7 @@ These are my current skills. I'm always working to learn more and improve!
 **Undergraduate Teaching Assistant**, UBC (Vancouver, Canada)  
 *September 2025 – Present*
 
-- Helping teach first-year students and improve course experience in labs, office hours, and personalized support on the student forum
+- Helping teach first-year students and improve course experience in labs, office hours; guiding learning on the student forum
 - Collaborating with a teaching team of 40; grading students' work (Gradescope) and invigilating exams
 
 ## Connect
