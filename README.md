@@ -1,6 +1,6 @@
 # Aaron Wang
 
-CS + Stats @ UBC building AI-powered full-stack apps; seeking Summer 2026 SWE/ML internships.
+CS + Stats @ UBC building AI-powered full-stack apps.
 
 ## About Me / Education
 - Second-year CS + Statistics student @ UBC
